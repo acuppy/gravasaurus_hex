@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Adam Cuppy"]
   spec.email         = ["adam@codingzeal.com"]
 
-  spec.summary       = %q{Here is my amazing summary}
+  spec.summary       = %q{Simple Gravatar url builder}
   spec.homepage      = "https://github.com/acuppy/gravasaurus_hex"
   spec.license       = "MIT"
 
