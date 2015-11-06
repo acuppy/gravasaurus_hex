@@ -1,6 +1,6 @@
 # GravasaurusHex
 
-A really basic, super simple Gravatar url builder.
+A really basic, super simple Gravatar url builder (ex: http://www.gravatar.com/avatar/f5b8fb60c6116331da07c65b96a8a1d1)
 
 ## Installation
 
